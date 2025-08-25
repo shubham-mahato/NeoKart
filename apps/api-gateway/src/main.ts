@@ -40,7 +40,7 @@ app.get("/gateway-health", (req, res) => {
 });
 app.use("/", proxy("http://localhost:6001"));
 
-const port = process.env.PORT || 8080;
+const port = process.env.PORT || 8081;
 const server = app.listen(port, () => {
   console.log(`Listening at http://localhost:${port}/api`);
 });

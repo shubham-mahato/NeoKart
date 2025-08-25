@@ -52,3 +52,7 @@ test-output
 .env.local
 .env.development
 .env.production
+
+# Next.js
+.next
+out

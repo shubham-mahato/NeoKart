@@ -11,6 +11,18 @@
     },
     {
       "path": "./apps/api-gateway"
+    },
+    {
+      "path": "./packages"
+    },
+    {
+      "path": "./packages"
+    },
+    {
+      "path": "./packages"
+    },
+    {
+      "path": "./apps/user-ui"
     }
   ]
 }
